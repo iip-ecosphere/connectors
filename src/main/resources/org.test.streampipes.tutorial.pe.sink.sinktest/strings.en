@@ -1,0 +1,23 @@
+## SPDX-FileCopyrightText: 2023 Siemens AG
+## SPDX-License-Identifier: Apache-2.0
+
+org.test.streampipes.tutorial.pe.sink.sinktest.title=Custom Buffered Rest Publisher
+org.test.streampipes.tutorial.pe.sink.sinktest.description=Custom Buffered Rest (connect to IDS)
+
+host-key.title=Host
+host-key.description=Host IDS connector
+
+port-key.title=Port
+port-key.description=Port IDS connector
+
+count-key.title=Buffer size
+count-key.description=Number (from 1 to 1000000) of incoming events before sending data on to the given REST endpoint
+
+owner-key.title=Owner
+owner-key.description=Owner url
+
+license-key.title=License
+license-key.description=License url
+
+policy-key.title=Policy
+policy-key.description=Policy
